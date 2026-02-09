@@ -102,14 +102,8 @@ individual, or aggression toward or disparagement of classes of individuals.
 Consequence: A permanent ban from any sort of public interaction within
 the community.
 
-# Attribution
-This Code of Conduct is adapted from the Contributor Covenant,
-version 2.0, available at
-https://www.contributor-covenant.org/ve ... nduct.html 1.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
-Community Impact Guidelines were inspired by Mozilla’s code of conduct
-enforcement ladder.
+Community Impact Guidelines were inspired by Mozilla's code of conduct enforcement ladder.
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq. Translations are available a](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)t
-https://www.contributor-covenant.org/translations.
+For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations.
